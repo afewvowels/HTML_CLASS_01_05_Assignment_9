@@ -1,0 +1,8 @@
+1. Website Info
+  a. Title - Smith Photography
+  b. Type - Photography studio website
+  c. Content - Information about the photographer, the studio, a portfolio of photos, and contact information
+2. Target Audience
+  a. People - Those looking to hire a photographer
+  b. Location - Regional
+  c. Disabilities - Visually impaired
